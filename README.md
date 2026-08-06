@@ -8,12 +8,12 @@
 <!-- ║                       HEADER SECTION                         ║ -->
 <!-- ╚═══════════════════════════════════════════════════════════════╝ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Oussama%20Chaabene&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20LLM%20Infrastructure%20%C2%B7%20Voice%20%26%20Agentic%20Systems&descSize=15&descColor=8b949e&descAlignY=55" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:161b22,100:58a6ff&height=220&section=header&text=Oussama%20Chaabene&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20Engineer%20%C2%B7%20Agentic%20%26amp%3B%20GenAI%20Systems&descSize=16&descColor=8b949e&descAlignY=55" width="100%" />
 
 <br/>
 
 <!-- Typing animation -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=760&height=45&lines=%F0%9F%94%A5+LLM+Inference+%C2%B7+Voice+Agents+%C2%B7+Agentic+Systems;%F0%9F%9A%80+From+bare+metal+to+production+API;%F0%9F%A7%B1+I+self-host+what+everyone+else+rents" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&multiline=false&repeat=true&random=false&width=760&height=45&lines=%F0%9F%94%A5+Agentic+%26+GenAI+Systems;%F0%9F%9A%80+From+bare+metal+to+production+API;%F0%9F%A7%B1+I+self-host+what+everyone+else+rents" alt="Typing SVG" />
 
 <br/>
 
@@ -414,98 +414,7 @@ Isolated per-tenant vector stores, semantic chunking for documents and row-based
 
 </div>
 
-<!-- ╔═══════════════════════════════════════════════════════════════╗ -->
-<!-- ║                       EXPERIENCE                             ║ -->
-<!-- ╚═══════════════════════════════════════════════════════════════╝ -->
-
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
-
-<div align="center">
-
-## 💼 Experience
-
-</div>
-
-<br/>
-
-<table>
-<tr>
-<td width="30%" valign="top">
-
-**AI Engineer**
-`Quicky Prime`
-<sub>Dec 2025 — Present · Remote</sub>
-
-</td>
-<td valign="top">
-
-Architect the end-to-end AI infrastructure behind the company's products: a real-time WebRTC voice agent on self-hosted LiveKit with local Whisper v3 Turbo and XTTS v2 served through Triton; custom vLLM builds with MXFP4 quantization to fit a 20B model on constrained GPUs; a WhatsApp agent engine in FastAPI + LangGraph with persistent memory and fallback queues; dynamic function calling so non-technical users can define their own tools; and a multilingual RAG pipeline with semantic chunking over Supabase vector storage. Also led work on Tunisian-dialect TTS and directed the dialect STT training effort.
-
-</td>
-</tr>
-
-<tr>
-<td width="30%" valign="top">
-
-**AI Engineer**
-`Access International`
-<sub>Feb 2025 — Jul 2025 · Internship → Contract</sub>
-
-</td>
-<td valign="top">
-
-Built a self-service platform that lets non-technical users deploy production chatbots in minutes. Isolated per-tenant RAG on ChromaDB with semantic chunking for documents, row-based chunking for tabular data and vector dedup. Served Mistral-Small-24B (EN/FR, function calling) and Cohere Command-R7B (Arabic) on 160 GB of VRAM via vLLM. Async ingestion with Celery and Selenium Grid across 7 data formats, plus a containerized React + Django microservices stack with real-time conversation analytics.
-
-</td>
-</tr>
-
-<tr>
-<td width="30%" valign="top">
-
-**AI Engineer** · Freelance
-`Favizone`
-<sub>Apr 2025 — May 2025 · Remote</sub>
-
-</td>
-<td valign="top">
-
-Deployed and optimized Mixtral-8x7B and Llama-70B with vLLM and tensor parallelism. Architected multi-node Ray clusters on OVHCloud GPU infrastructure for distributed inference, and benchmarked H100 / A100 / A10 / Tesla to find the configuration that maximized concurrent users at target latency. Integrated the JAIS Arabic model family into the vLLM pipeline with custom chat templates and tokenizer configs.
-
-</td>
-</tr>
-
-<tr>
-<td width="30%" valign="top">
-
-**AI Engineer Intern**
-`Yuma Tunisia`
-<sub>Jul 2024 — Aug 2024 · Sfax</sub>
-
-</td>
-<td valign="top">
-
-Built a full-stack AutoML tool for dataset upload, automated model recommendation and one-click training. Automated algorithm selection and hyperparameter tuning with LazyPredict, and added computer-vision support with YOLO and AutoKeras so users could train custom image classifiers from the browser.
-
-</td>
-</tr>
-
-<tr>
-<td width="30%" valign="top">
-
-**Mobile Developer Intern**
-`CompiTechnology`
-<sub>Jul 2023 — Aug 2023 · Sfax</sub>
-
-</td>
-<td valign="top">
-
-Took a cross-platform monitoring and alerting app (Flutter / Dart) for a Canadian startup from prototype to production, with a real-time Firebase backend, push notifications, live data sync and secure auth.
-
-</td>
-</tr>
-</table>
-
-<br/>
 
 <!-- ╔═══════════════════════════════════════════════════════════════╗ -->
 <!-- ║                  EDUCATION & AWARDS                          ║ -->
